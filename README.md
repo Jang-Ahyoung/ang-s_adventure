@@ -4,7 +4,7 @@
 ### 💙 developer
  - [장아영](https://github.com/Jang-Ahyoung)<br /> <br /> 
 
-### 🎅☃️ [Go-Page](https://whereismine.tk/) 🎄🔔
+### 🎅☃️ [Go-Page](https://where-is-mine.netlify.app/) 🎄🔔
 
 ## 🌟  Demo 
 > html을 이용한 간단한 택배 조회 사이트  <br /> - 사용자는 간편하게 한곳에서 다양한 택배사의 운송장을 조회해볼 수 있다.
